@@ -8,7 +8,7 @@
 * BE PATIENT AND HAVE FUN IT IS OPEN SOURCE.
 # SETUP
 ```sh
-sudo apt-get update &&sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev && git clone https://github.com/Ho0000s/Khalil.Yemen.git && cd Khalil.Yemen && git clone https://github.com/catwell/lua-multipart-post.git && sudo apt-get install lua-socket && sudo apt-get install lua-sec && sh launch.sh
+sudo apt-get update &&sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev && git clone https://github.com/Ho0000s/Khalil.Yemen.git && cd Khalil.Yemen && git clone https://github.com/Ho0000s/Khalil.Yemen.git && sudo apt-get install lua-socket && sudo apt-get install lua-sec && sh launch.sh
 ```
 # COMMANDS
 | The Command                    |admin require               | Description                                                    |
