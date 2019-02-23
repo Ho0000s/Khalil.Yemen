@@ -1,4 +1,4 @@
-cho -n "Insert the bot token : "
+echo -n "Insert the bot token : "
 read token
 echo -n "please enter the admin id : "
 read admin
